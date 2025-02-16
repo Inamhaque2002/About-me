@@ -63,11 +63,10 @@ Hello!, I'm Anwarul Haque, an ambitious B.Tech student specializing in Informati
 **Here are some of my projects:**
 
 * Student Dropout Analysis App: Developed an Android app analyzing factors behind student dropouts using Java, Python, and the Random Forest algorithm
-  [Project Link](https://github.com/Anwarulh007/projects)
+  [Project Link]
 * Malware Analysis Tool: Developed a tool for fileless malware detection using dynamic analysis and Python
-  [Project Link](https://github.com/Anwarulh007/kavach-2k23)
+  [Project Link]
 
-[Email me](mailto:anwarul00000000000@gmail.com)
+[Email me](mailto:techinamul2002@gmail.com)
 
-![Profile Views](https://visitcount.itsvg.in/api?id=AnwarulHaque&label=Profile%20Views&color=12&icon=5&pretty=true)
 
